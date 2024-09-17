@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luca Tilyard</h1>
 <h3 align="center">A Full time Mathematical Physics student at the University of Edinburgh, alongside writing software for a wide range of different applications and use cases in my free time</h3>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="61a077dc-9904-4a97-bc89-27b2efc28b12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucatilyard&label=Profile%20views&color=0e75b6&style=flat" alt="lucatilyard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucatilyard" alt="lucatilyard" /></a> </p>
