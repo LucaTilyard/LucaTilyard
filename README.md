@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Enigmatic](https://github.com/LucaTilyard/Enigmatic)
 
-- 🌱 I’m currently learning **MongoDB associate developer program**
+- 🌱 I’m currently learning **Alpaca Trading API**
 
 - 👨‍💻 All of my projects are available at [lucatilyard.me](lucatilyard.me)
 
