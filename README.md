@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Tilyard</h1>
 <h3 align="center">A Full time Mathematical Physics student at the University of Edinburgh and a Certified MongoDB Associate Developer (Node.js) </h3>
 
-<p align="center"> <img src="mongodb-associate-developer.7 (1).png"> </p>
+<p align="center"> <img src="mongodb-associate-developer.7 (1).png"> <img src="building-genai-applications-with-mongodb.png"> </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucatilyard&label=Profile%20views&color=0e75b6&style=flat" alt="lucatilyard" /> </p>
 
