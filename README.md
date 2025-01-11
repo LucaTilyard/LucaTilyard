@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Tilyard</h1>
-<h3 align="center">A Full time Mathematical Physics student at the University of Edinburgh, Certified MongoDB Associate Developer (Node.js), Snapchat lens creator with over 400k views and 350k plays </h3>
+<h3 align="center">A Full time Mathematical Physics student at the University of Edinburgh, Certified MongoDB Associate Developer (Node.js) and Snapchat lens creator with over 400k views and 350k plays </h3>
 
 <p align="center"> <img src="mongodb-associate-developer.7 (1).png"> <img src="building-genai-applications-with-mongodb.png"> </p>
   
