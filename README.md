@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucatilyard" alt="lucatilyard" /></a> </p>
 
-- 🔭 I’m currently working on [Enigmatic](https://github.com/LucaTilyard/Enigmatic)
+- 🔭 I’m currently working on [Quantum Computing](https://github.com/LucaTilyard/Quantum-Computing)
 
 - 🌱 I’m currently learning **Alpaca Trading API**
 
