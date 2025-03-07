@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Quantum Computing](https://github.com/LucaTilyard/Quantum-Computing)
 
-- 🌱 I’m currently learning **Alpaca Trading API**
+- 🌱 I’m currently learning **QisKit**
 
 - 👨‍💻 All of my projects are available at [lucatilyard.me](lucatilyard.me)
 
